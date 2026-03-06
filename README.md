@@ -22,11 +22,12 @@
 
 ### 从 Claude Code Plugin Marketplace 安装
 
-在你的 Claude Code 项目中：
-
 ```bash
-# 安装 skill
-claude-code skill install stock-research-framework
+# 1. 添加 marketplace
+claude plugin marketplace add alondai/claude-plugin-marketplace
+
+# 2. 安装插件
+claude plugin install stock-research-framework@alondai
 ```
 
 ### 手动安装
