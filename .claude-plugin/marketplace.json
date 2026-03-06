@@ -1,0 +1,15 @@
+{
+  "name": "alondai",
+  "plugins": [
+    {
+      "name": "stock-research-framework",
+      "source": { "source": "github", "repo": "alondai/stock-research-framework" },
+      "description": "A comprehensive 9-point stock research analysis framework for fundamental analysis, financial assessment, competitive analysis, and investment recommendations",
+      "version": "1.0.0",
+      "author": { "name": "alondai" },
+      "repository": "https://github.com/alondai/stock-research-framework",
+      "license": "MIT",
+      "keywords": ["stock", "investment", "research", "finance", "trading", "analysis"]
+    }
+  ]
+}

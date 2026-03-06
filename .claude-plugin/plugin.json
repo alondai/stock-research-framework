@@ -1,0 +1,6 @@
+{
+  "name": "stock-research-framework",
+  "version": "1.0.0",
+  "description": "Use when analyzing any stock investment opportunity - provides comprehensive 9-point research framework covering fundamentals, financials, competition, valuation, macro environment, sentiment, and investment recommendations",
+  "author": { "name": "alondai" }
+}
